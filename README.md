@@ -25,7 +25,8 @@ Unlike the main project, this fork has limited printer support. This fork is cod
 | Printer             | Supports Multi-Tone| Confirmed Working |
 |:--------------------|:-------------------|:------------------|
 |Epson TM-T88V        |Yes                 |Yes                |
-|
+|Epson TM-T88VI       |Yes                 |Untested           |
+|Epson TM-T70II       |Yes                 |Untested           |
 
 ## gbpxl DIP switch settings
 
