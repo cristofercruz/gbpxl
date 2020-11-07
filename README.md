@@ -11,7 +11,7 @@ Improvements, suggestions, experience with various printer models are welcome!
 
 ## How to use it
 
-Build **gbpxl** using custom PCB kit available on Tindie **Sold Out** (https://www.tindie.com/products/xx0x/gbpxl-game-boy-printer-xl-kit/). The kit is currently sold out, but the gerber file is public, so you can have your PCBs made at PCBWAY, JLCPCB, Elecrow etc. Gerber file and BOM are available here: https://github.com/xx0x/gbpxl/tree/master/schematic-bom-pcb
+Build **gbpxl** using custom PCB kit available on Tindie (https://www.tindie.com/products/xx0x/gbpxl-game-boy-printer-xl-kit/). Gerber file is also public, so you can have your PCBs made at PCBWAY, JLCPCB, Elecrow etc. Gerber file and BOM are available here: https://github.com/xx0x/gbpxl/tree/master/schematic-bom-pcb
 
 <img src="https://github.com/xx0x/gbpxl/raw/master/docs/gbpxl_1.jpg" width="260" /> <img src="https://github.com/xx0x/gbpxl/raw/master/docs/gbpxl_2.jpg" width="260" />
 
